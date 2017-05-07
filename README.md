@@ -1,4 +1,4 @@
-# RailsSimpleExposure
+# RailsSimpleExposure [![Build Status](https://travis-ci.org/dbackowski/rails_simple_exposure.svg?branch=master)](https://travis-ci.org/dbackowski/rails_simple_exposure)
 Cleanup your Rails controllers.
 
 ## Installation
