@@ -7,7 +7,6 @@ module RailsSimpleExposure
       instance_variable_set instance_variable_name, instance_eval(&value)
     end
 
-
     define_method :"#{name}=" do |value|
       instance_variable_set instance_variable_name, value
     end
